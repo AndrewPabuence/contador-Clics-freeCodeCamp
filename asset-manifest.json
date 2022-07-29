@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AndrewPabuence/contador-Clics-freeCodeCamp/static/css/main.a7ce0bef.css",
+    "main.js": "/AndrewPabuence/contador-Clics-freeCodeCamp/static/js/main.028704cc.js",
+    "static/media/freeCodeCamp-logo-white.png": "/AndrewPabuence/contador-Clics-freeCodeCamp/static/media/freeCodeCamp-logo-white.06ef51b18c2b4bb99954.png",
+    "index.html": "/AndrewPabuence/contador-Clics-freeCodeCamp/index.html",
+    "main.a7ce0bef.css.map": "/AndrewPabuence/contador-Clics-freeCodeCamp/static/css/main.a7ce0bef.css.map",
+    "main.028704cc.js.map": "/AndrewPabuence/contador-Clics-freeCodeCamp/static/js/main.028704cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ce0bef.css",
+    "static/js/main.028704cc.js"
+  ]
+}
